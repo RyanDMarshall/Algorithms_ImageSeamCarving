@@ -1,0 +1,1 @@
+A course project which takes in a given image and applies content-aware resizing (via the seam-carving algorithm) to a specified size.
